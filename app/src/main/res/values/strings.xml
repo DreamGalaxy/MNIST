@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MNIST</string>
+    <string name="selectPhoto">从相册选择照片</string>
+    <string name="takePhoto">拍摄照片</string>
+    <string name="description">图片</string>
+
+    <string name="request">请求中......</string>
+    <string name="errorUploadFailed">图片上传失败</string>
+    <string name="errorUrlWrong">URL错误</string>
+    <string name="errorConnectFailed">建立连接失败</string>
+    <string name="errorRequestFailed">服务调用失败（建议到AI Studio确认服务器状态）</string>
+    <string name="errorAPINotRunning">AI Studio部署的服务不是运行中状态，请先启动服务</string>
+</resources>
